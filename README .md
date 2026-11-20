@@ -80,22 +80,7 @@ Logistic Regression and Random Forest scored the same, and **Random Forest** was
 - Matplotlib, Seaborn
 - Google Colab / Jupyter Notebook
 
-## How to Run
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
-# 3. Download the dataset from UCI and place it in the project folder
-#    (chronic_kidney_disease_full.arff)
-
-# 4. Open the notebook
-jupyter notebook Kidney_Disease_Predictor.ipynb
-```
 
 If you run it on Google Colab, upload the `.arff` file and keep the path used in the first cell (`/content/chronic_kidney_disease_full.arff`).
 
